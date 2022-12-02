@@ -1,0 +1,40 @@
+1. Differentiate debugging with testing process?
+Ans. Testing is a process of finding bugs or errors in a s/w that is done manually by tester.
+Debugging is a process of fixing the bugs found in testing phase.
+2. What do you mean by coding style?
+Ans. Coding style is a set of rules of guidelines used when writing the code for a computer
+program.
+3. What does code reuse mean?
+Ans. Code reuse is the process of using existing code for a new function or sequence.
+4. Define forward and reverse engineering?
+Ans. Forward engg is the process of building from a high-level model to build in complexities.
+Reverse engg is used to analyze s/w in order to identify understand the parts.
+5. What is use of modular programming?
+Ans. It is a process of subdividing a program into separate sub programs.
+6. Does bad design result in bad coding? Justify.
+Ans. The most common scenarios when you realize that design is poor are maintaining code that someone has written already.
+a. Breaking of one functionality during development of another one.
+b. Existing code not supporting future enhancements.
+1. What does good SRS mean?
+Ans. The good SRS will interact with all internet models hardware, communication with other programs.
+2. Differentiate requirements and Specifications?
+Ans. Requirement is a statement of one-thing a product must do or a quality must have where it has
+specification.
+1. Define test adequacy criteria?
+Ans. A test set is a set of test cases for testing of a program req of executing all the statements in the prog.
+2. Why to prioritize test cases?
+Ans. Test case prioritization allows testers to test highest priority test cases which helps them resolve most critical issues earlier in the testing phase.
+3. Define test suite?
+Ans. A test suite is a collection of test cases that an intended to be used to test the software prog to show
+that it has some specified set.
+4. Compare actual result with expected result?
+Ans. Actual result is the o/p when you checkout the software in the real time.
+5. Why should we check for invalid test conditions also?
+Ans. The main reason is to check the stability of s/w application against the influence of incorrect
+validation dataset.
+1. Define UML?
+Ans. UML is standard language for writing blue print of s/w program.
+2. Define cardinality?
+Ans. Number of occurrences 1 object that can be related to no. of occurrences of another
+3. What are various static and dynamic diagrams in UML? Ans. Static diagrams: class objects
+Dynamic diagrams: interaction ,object ,activity.
