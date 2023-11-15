@@ -1,0 +1,9 @@
+Step1.LogintoAWSlambdaconsole.
+Step2.Gotofunctionsandclickoncreatefunction. 
+Step3.Selectauthorfromscratchandgivebasicinformationlikefunctionnameruntimeandpath.
+Step4.Giveadvancedsettingsandchoosecreatefunction. Step5.Thisisthecodeofourprogrammethatwhichlanguagewehaveselectedasruntime. Clickontest. 
+Step7.Givetheeventtemplatenameandeventname,ifwewantwecanchangethekeyvaluesthenclickon create. 
+Step8.Againclickontestitwillshowtheexecutionresult. Finallyourfunctionwascreated.
+Step9.Todeletethefunction. 
+● Selectthefunctionandgotactionschoosedelete. 
+●Nowclickondelete.
